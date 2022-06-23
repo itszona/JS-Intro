@@ -1,9 +1,9 @@
-let myName = "David";
-console.log(myName);
+let myName = "Name: David";
+alert(myName);
 
 
-let height = "1.75m";
-console.log(height);
+let height = "Height: 1.75m";
+alert(height);
 
-let country = "Nigeria";
-console.log(country);
+let country = "Country: Nigeria";
+alert(country);
